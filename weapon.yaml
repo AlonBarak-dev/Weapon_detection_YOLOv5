@@ -1,6 +1,0 @@
-train: ../weapon/Images_new/train/
-val: ../clothing/Images_new/val/
-
-nc: 1
-
-names: ['Gun']
